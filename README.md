@@ -30,10 +30,10 @@ A lightweight open-source Chrome extension to block known **trackers and ad scri
 ## 🛠 How to Use
 
 1. Clone this repo:
-   > Download the Extension
-   > open chrome and go to chrome://extensions/
-   > Enable Developer mode
-   > Then click loaded unpacked and upload all the files you downloaded
-   > now its ready to use
-   > You can customize as your need and add your own rules in rules.json
-   > i have added only few rules in rules.json file
+   > Download the Extension---
+   > open chrome and go to chrome://extensions/---
+   > Enable Developer mode---
+   > Then click loaded unpacked and upload all the files you downloaded---
+   > now its ready to use---
+   > You can customize as your need and add your own rules in rules.json---
+   > i have added only few rules in rules.json file---
